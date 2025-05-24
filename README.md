@@ -150,26 +150,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
 
-If you use this software in your research, please cite:
-
-```bibtex
-@software{quantum_energy_forecasting,
-  title={Quantum Energy Forecasting: Quantum-Ready, Weather-Aware Kernel Forecasting},
-  author={ol-s-cloud},
-  year={2025},
-  url={https://github.com/ol-s-cloud/quantum-energy-forecasting}
 }
-```
-
-## Contact
-
-- **Author**: ol-s-cloud
-- **Email**: contact@ol-s-cloud.dev
-- **Repository**: https://github.com/ol-s-cloud/quantum-energy-forecasting
-- **Documentation**: https://quantum-energy-forecasting.readthedocs.io
-
 ---
 
 *Built with ❤️ for a sustainable energy future*
